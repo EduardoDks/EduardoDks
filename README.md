@@ -1,11 +1,16 @@
-👋 Hi, I’m @EduardoDks
-👀 I’m interested in learn more about programming and technology.
-🌱 I’m currently learning Python e web development.
-📫 How to reach me: You can reach me via email at edu.oliveira70@gmail.com !
-😄 Pronouns: He/Him
-⚡ Fun fact: I learned to program in a conversation between friends
+### Hi! I am Eduardo Silva 👋
 
-<!---
+#### 📫 How to reach me:
+
+[![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edu.oliveira70@gmail.com)
+[![Blog](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]()
+[![blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eduardo0lv)
+
+#### 👀 I’m interested in learn more about programming and technology.
+#### 🌱 I’m currently learning Python e web development.
+
+[![blog](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+[![blog](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()<!---
 EduardoDks/EduardoDks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
