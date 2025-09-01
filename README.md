@@ -10,5 +10,7 @@
 #### 🌱 I’m currently learning Python e web development.
 
 [![blog](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
-[![blog](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()<!---
+[![blog](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
+[!{blog](https://img.shields.io/badge/just%20the%20C-8A2BE2)]()<!---
+
 
