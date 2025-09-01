@@ -1,4 +1,4 @@
-### Hi! I am Eduardo Silva 👋
+### Hi! I am Eduardo Oliva 👋
 
 #### 📫 How to reach me:
 
@@ -11,6 +11,9 @@
 
 [![blog](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 [![blog](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
-[!{blog](https://img.shields.io/badge/just%20the%20C-8A2BE2)]()<!---
-
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original-wordmark.svg" />
+          
+#### Actually studing 
+  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
 
